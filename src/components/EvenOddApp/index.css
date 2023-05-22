@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.card {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 300px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+}
+.heading {
+  color: black;
+}
+.heading1 {
+  color: #334155;
+  font-weight: normal;
+}
+.para {
+  color: #1e293b;
+}
+.button {
+  background-color: white;
+  height: 30px;
+  width: 100px;
+  border-color: white;
+  border-radius: 7px;
+}
